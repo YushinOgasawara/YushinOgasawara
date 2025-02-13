@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YushinOgasawara" />
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YushinOgasawara&layout=compact&show_icons=true&theme=onedark" />
